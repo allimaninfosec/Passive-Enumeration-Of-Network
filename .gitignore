@@ -1,2 +1,5 @@
-db/
-pass
+data/
+server/
+venv/
+mysql-init.sql
+tcp.xml
