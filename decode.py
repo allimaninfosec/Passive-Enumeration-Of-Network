@@ -12,3 +12,10 @@ def decode_options(opt):
     ret = ret[:-1]
 
     return(ret)
+def convert_fragment(val):
+    ret = ''
+    if val == 'DF':
+        ret = 1
+    else:
+        ret = 0
+    return(ret)
