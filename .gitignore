@@ -1,0 +1,5 @@
+data/
+server/
+venv/
+mysql-init.sql
+tcp.xml
